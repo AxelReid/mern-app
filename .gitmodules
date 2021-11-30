@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://AxelReid: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@github.com/AxelReid/mern-full-stack-app.git
