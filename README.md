@@ -2,6 +2,12 @@
 
 #### POST & ADMIN Panel
 
+##### To clone this, please use:
+
+```
+gi clone https://github.com/AxelReid/mern-full-stack-app.git --recurse
+```
+
 install dependencies of the root
 
 ```bash
